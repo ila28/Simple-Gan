@@ -3,4 +3,4 @@
 ## Simple face generator on Tensrflow
 
 ### Example after 6000 iterations:
-![example](https://github.com/[ila28]/[Simple-Gan]/[main]/generated_8.png?raw=true)
+![example](https://github.com/[ila28]/[Simple-Gan]/[main]/generated_8.png?raw=false)
